@@ -1,0 +1,10 @@
+﻿I'm sorry, but errors were detected in your script. Please correct the
+errors listed below, and try again.
+
+
+File "game/script.rpy", line 154: is not terminated with a newline. (Check strings and parenthesis.)
+(Perhaps you left out a " at the end of the first line.)
+        satoko "Agora você te
+
+Ren'Py Version: Ren'Py 8.3.0.24082114
+Sat Aug 31 18:14:23 2024
